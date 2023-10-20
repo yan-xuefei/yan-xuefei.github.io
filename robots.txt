@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yan-xuefei.github.io/sitemap.xml
